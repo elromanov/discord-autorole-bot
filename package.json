@@ -1,0 +1,22 @@
+{
+  "name": "autorole_bot",
+  "version": "1.0.0",
+  "description": "Discord bot that automatically creates roles based on the games users are playing, and assign those roles to users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elromanov/autorole-bot.git"
+  },
+  "author": "Romain Chardon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elromanov/autorole-bot/issues"
+  },
+  "homepage": "https://github.com/elromanov/autorole-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.5.0"
+  }
+}
