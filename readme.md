@@ -1,7 +1,5 @@
 # Discord autorole bot
 
----
-
 ## How to make it work ?
 
 * Install last version of Node js (https://nodejs.org/en/)
