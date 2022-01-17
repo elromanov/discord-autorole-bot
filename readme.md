@@ -27,7 +27,7 @@ The bot checks every 30 seconds for all connected users, if they are playing any
 
 ### Author(s)
 <a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
+  <img src="https://avatars.githubusercontent.com/u/52935215?v=4" />
 </a>
 
 
