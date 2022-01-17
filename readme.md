@@ -3,7 +3,7 @@
 ## How to make it work ?
 
 * Install last version of [Node js](https://nodejs.org/en/)
-* Install Discord.js V13
+* Install [Discord.js V13](https://discord.js.org/#/)
 * Replace ```"DISCORD BOT TOKEN"``` by your discord bot's token in config.json
 
 * And finally run:
