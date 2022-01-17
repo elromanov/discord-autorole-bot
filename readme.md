@@ -26,7 +26,10 @@ The bot checks every 30 seconds for all connected users, if they are playing any
 14/01/2022
 
 ### Author(s)
-elromanov
+<a href="https://github.com/OWNER/REPO/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
+</a>
+
 
 ## Last update
 14/01/2022
