@@ -4,7 +4,7 @@
 
 * Install last version of [Node js](https://nodejs.org/en/)
 * Install [Discord.js V13](https://discord.js.org/#/)
-* Create a discord bot
+* [Create a discord bot](https://discordpy.readthedocs.io/en/stable/discord.html)
 * Replace ```"DISCORD BOT TOKEN"``` by your discord bot's token in ```config.json```
 
 * And finally run:
