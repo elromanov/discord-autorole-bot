@@ -5,7 +5,6 @@
 * Install last version of [Node js](https://nodejs.org/en/)
 * Install [Discord.js V13](https://discord.js.org/#/)
 * Create a discord bot
-* 
 * Replace ```"DISCORD BOT TOKEN"``` by your discord bot's token in ```config.json```
 
 * And finally run:
@@ -24,14 +23,14 @@ The bot checks every 30 seconds for all connected users, if they are playing any
 
 ## Date & author(s)
 
-### Date
+### Creation date
 14/01/2022
 
-### Author(s)
+### Author
 [Romain Chardon](https://github.com/elromanov)
 
 ## Last update
-14/01/2022
+01/02/2022 (DD-MM-YYYY)
 
 ## Version
-1.0
+1.0.1
